@@ -8,7 +8,7 @@ These monthly forecasts can then be further converted to daily temperatures as w
 
 3>The ADF test(Augmented Dicky Fuller) test is utilized to find out if the time series is stationary or not.
 
-4>. ARIMA(1, 0, 0) ,an AR model is created to test the predictability of the time series.
+4>. ARIMA(1, 0, 0) ,an AR modell with order 1, no differencing, and no moving average model is created to test the predictability of the time series.
 
 5>ARIMA models, Holt Winters Model and Two Level Forecasting Models are created to do the preidtction.
 
